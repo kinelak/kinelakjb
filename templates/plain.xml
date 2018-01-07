@@ -1,0 +1,8 @@
+<templateSet group="plain">
+  <template name="psvm" value="public static void main(String args[]){&#10;&#10;}" description="public static void main" toReformat="false" toShortenFQNames="true" />
+  <template name="sop" value="System.out.println();" description="System out println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
