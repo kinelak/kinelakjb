@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project '003_Samples'" />
-    <option name="defaultScopeName" value="Project '003_Samples'" />
-    <option name="SEARCH_SCOPE" value="Project '003_Samples'" />
+    <option name="customScope" value="File '...\tbot.iml [tbot]'" />
+    <option name="defaultScopeName" value="File '...\tbot.iml [tbot]'" />
+    <option name="SEARCH_SCOPE" value="File '...\tbot.iml [tbot]'" />
   </component>
 </application>
